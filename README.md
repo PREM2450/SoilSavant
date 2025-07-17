@@ -70,12 +70,11 @@
 
 ✨ **Idea Proposed by - SUBGROUP 4 of GAUSS Group:**
 
-- 👨 Pooran Singh  
-- 👩 Anamika Kumari  
-- 👨 Hirak Nath  
-- 👨 Gaurav Tiwari  
-- 👨 Prem Kumar
-
+- 👨 [Pooran Singh](https://github.com/pooransingh01)  
+- 👩 [Anamika Kumari](https://github.com/tiwariianamikaa)  
+- 👨 [Hirak Nath](https://github.com/Hirak-abc)  
+- 👨 [Gaurav Tiwari](https://github.com/GAURAV-TIWARI-ux)  
+- 👨 [Prem Kumar](https://github.com/PREM2450)
 ---
 
 ## 📌 Tech Stack
