@@ -70,9 +70,9 @@
 
 ✨ **Idea Proposed by - SUBGROUP 4 of GAUSS Group:**
 
+- 👨 [Hirak Nath](https://github.com/Hirak-abc) 
 - 👨 [Pooran Singh](https://github.com/pooransingh01)  
-- 👩 [Anamika Kumari](https://github.com/tiwariianamikaa)  
-- 👨 [Hirak Nath](https://github.com/Hirak-abc)  
+- 👩 [Anamika Kumari](https://github.com/tiwariianamikaa)   
 - 👨 [Gaurav Tiwari](https://github.com/GAURAV-TIWARI-ux)  
 - 👨 [Prem Kumar](https://github.com/PREM2450)
 ---
